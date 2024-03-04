@@ -13,3 +13,12 @@ public class A {
 	}
 
 }
+
+GIT COMMANDS
+git init
+git add
+git status
+git commit
+git push
+git clone
+
